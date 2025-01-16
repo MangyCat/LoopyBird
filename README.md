@@ -13,7 +13,7 @@ Welcome to **LoopyBird**, a simple flappy bird game hosted on [Loopybird](https:
 
 - **pipe.png**: Adapted from the original Flappy Bird game and modified for engine reasons. 👨‍🔧
 - **bird.png**: Adapted from the original Flappy Bird game into a green bird. 🦚
-- **background.png**: Sourced from [WallpaperCave](https://wallpapercave.com/flappy-bird-wallpapers). 🖼
+- **wallpaper.webp**: Sourced from [WallpaperCave](https://wallpapercave.com/flappy-bird-wallpapers). 🖼
 - **Sounds**: All sounds sourced from [myinstant](https://www.myinstants.com/): 🔊
   - `flap.mp3`: Based on the [osu hit](https://www.myinstants.com/en/instant/osu-hit-sound-29289/) sound. 🎯
   - `score.mp3`: The [ding](https://www.myinstants.com/en/instant/correct-ding-gameshow/) sound. 🎰
