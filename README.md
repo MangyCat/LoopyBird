@@ -1,6 +1,6 @@
 # LoopyBird 🐤
 
-Welcome to **LoopyBird**, a simple flappy bird game hosted on [[loopybird](https://mangycat.github.io/LoopyBird). Navigate through pipes and aim for the highest score, which is automatically saved for you.
+Welcome to **LoopyBird**, a simple flappy bird game hosted on [Loopybird](https://mangycat.github.io/LoopyBird). Navigate through pipes and aim for the highest score, which is automatically saved for you.
 
 ## Features
 
